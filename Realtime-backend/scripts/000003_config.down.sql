@@ -1,0 +1,1 @@
+drop rop table if exists config;
